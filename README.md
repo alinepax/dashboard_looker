@@ -19,7 +19,7 @@ Este projeto tem como finalidade demonstrar habilidades em:
 - Formato: `.csv`
 - Campos: Categoria, Data, Produto, Preço Unitário, Quantidade, Receita, Região e Vendedor.
 
-📁 Arquivo disponível em: `dados/dados_vendas.csv`
+📁 Arquivo disponível em: `dados/dados_vendas_looker_studio.csv`
 
 ## ⚙️ Funcionalidades
 
