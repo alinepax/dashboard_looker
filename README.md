@@ -4,7 +4,7 @@ Este é um projeto de visualização de dados utilizando o **Google Looker Studi
 
 ## 🔗 Acesse o Dashboard
 
-👉 [Clique aqui para ver o dashboard no Looker Studio](INSIRA_O_LINK_AQUI)
+👉 [Clique aqui para ver o dashboard no Looker Studio](https://lookerstudio.google.com/reporting/6226c9a5-d681-4a7e-baca-9f83d04900ff)
 
 ## 🧾 Conjunto de Dados
 
@@ -31,7 +31,7 @@ Este é um projeto de visualização de dados utilizando o **Google Looker Studi
 
 Veja abaixo uma prévia do painel:
 
-![Dashboard Looker](imagens/dashboard_looker_print.png)
+![Dashboard Looker](images/print_de_tela.png)
 
 ## 💡 Objetivo
 
