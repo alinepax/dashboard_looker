@@ -11,9 +11,7 @@ Este projeto tem como finalidade demonstrar habilidades em:
 - Apresentação de KPIs de forma visual e objetiva
 - Uso de ferramentas no ecossistema Google para análise de dados
 
-## 🔗 Acesse o Dashboard
-
-👉 [Clique aqui para ver o dashboard no Looker Studio](https://lookerstudio.google.com/reporting/6226c9a5-d681-4a7e-baca-9f83d04900ff)
+---
 
 ## 🧾 Conjunto de Dados
 
@@ -44,6 +42,8 @@ Este projeto tem como finalidade demonstrar habilidades em:
 - **Comparação por Região e Categoria**: Ajuda na alocação de recursos e estratégias de marketing mais assertivas.
 - **Dashboard Interativo**: Filtros aplicáveis em tempo real sem recarregar a página.
 
+---
+
 ## 🛠️ Ferramentas Utilizadas
 
 - [Looker Studio](https://lookerstudio.google.com/)
@@ -55,6 +55,12 @@ Este projeto tem como finalidade demonstrar habilidades em:
 Veja abaixo uma prévia do painel:
 
 ![Dashboard Looker](image/analise_desempenho_vendas.png)
+
+---
+
+## 🔗 Acesse o Dashboard
+
+👉 [Clique aqui para ver o dashboard no Looker Studio](https://lookerstudio.google.com/reporting/6226c9a5-d681-4a7e-baca-9f83d04900ff)
 
 ---
 
