@@ -50,7 +50,7 @@ Este projeto tem como finalidade demonstrar habilidades em:
 - Google Sheets (para carregar os dados)
 - GitHub (para versionamento e portfólio)
 
-## 📸 Prints do Dashboard
+## 📸 Print do Dashboard
 
 Veja abaixo uma prévia do painel:
 
